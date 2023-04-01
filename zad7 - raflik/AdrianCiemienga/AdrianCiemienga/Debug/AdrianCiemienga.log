@@ -1,0 +1,26 @@
+﻿  AdrianCiemienga.cpp
+  Walec.cpp
+C:\Users\adik\source\repos\AdrianCiemienga\AdrianCiemienga\Walec.cpp(11,26): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+C:\Users\adik\source\repos\AdrianCiemienga\AdrianCiemienga\Walec.cpp(10): message : podczas kompilowania funkcji składowej „T Walec<T>::pole(void)” klasy klasa szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\adik\source\repos\AdrianCiemienga\AdrianCiemienga\Walec.cpp(14): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „Walec<int>” klasy klasa szablon
+C:\Users\adik\source\repos\AdrianCiemienga\AdrianCiemienga\Walec.cpp(11,26): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\adik\source\repos\AdrianCiemienga\AdrianCiemienga\Walec.cpp(10): message : podczas kompilowania funkcji składowej „T Walec<T>::pole(void)” klasy klasa szablon
+          with
+          [
+              T=float
+          ]
+C:\Users\adik\source\repos\AdrianCiemienga\AdrianCiemienga\Walec.cpp(16): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „Walec<float>” klasy klasa szablon
+  Generowanie kodu...
+  AdrianCiemienga.vcxproj -> C:\Users\adik\source\repos\AdrianCiemienga\Debug\AdrianCiemienga.exe
