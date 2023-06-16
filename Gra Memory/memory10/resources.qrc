@@ -1,0 +1,17 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>fonts/Roboto-Regular.ttf</file>
+    </qresource>
+	    <qresource prefix="/">
+        <file>images/A.png</file>
+        <file>images/B.png</file>
+        <file>images/C.png</file>
+        <file>images/D.png</file>
+        <file>images/E.png</file>
+        <file>images/F.png</file>
+        <file>images/G.png</file>
+        <file>images/H.png</file>
+        <file>images/back.png</file>
+    </qresource>
+</RCC>
